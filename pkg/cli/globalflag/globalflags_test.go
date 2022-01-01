@@ -1,4 +1,4 @@
-// Copyright 2020 Lingfei Kong <colin404@foxmail.com>. All rights reserved.
+// Copyright 2020 kiosk007 <weijiaxiang007@foxmail.com>. All rights reserved.
 // Use of this source code is governed by a MIT style
 // license that can be found in the LICENSE file.
 
@@ -13,7 +13,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	cliflag "github.com/marmotedu/component-base/pkg/cli/flag"
+	cliflag "github.com/weijiaxiang007/component-base/pkg/cli/flag"
 )
 
 func TestAddGlobalFlags(t *testing.T) {
